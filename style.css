@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(127, 180, 216);
+    width: 100%;
+}
+.menu{
+    padding: 10px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+header{
+    background-color: blue;
+    height: 400px; 
+    
+}
+.quadrato{
+    background-color: rosybrown;
+    width: 100px;
+    height: 100px;
+    
+      display: flex;
+      justify-content: center;
+}
