@@ -23,7 +23,6 @@ header{
     background-color: rosybrown;
     width: 100px;
     height: 100px;
-    
-      display: flex;
-      justify-content: center;
+    display: flex;
+    justify-content: center;
 }
