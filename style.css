@@ -3,26 +3,36 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: rgb(127, 180, 216);
+body{    
     width: 100%;
+    background-color: rgb(97, 189, 238);
 }
-.menu{
-    padding: 10px;
-    background-color: green;
-    display: flex;
-    justify-content: center;
-    margin-top: 25px;
-}
+
 header{
     background-color: blue;
     height: 400px; 
-    
-}
-.quadrato{
-    background-color: rosybrown;
-    width: 100px;
-    height: 100px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.quadrato{
+    background-color: rgb(201, 86, 209);
+    width: 650px;
+    height: 250px;
+    border-style: dashed;
+}
+.contenitore1{
+    background-color: white;
+    height: 400px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+}
+.quadrato1{
+    background-color: rgb(39, 100, 158);
+    width: 650px;
+    height: 250px;
+    border-style: dashed;
 }
